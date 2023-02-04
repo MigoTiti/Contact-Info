@@ -1,3 +1,1 @@
-# Build settings
-markdown: kramdown
-theme: Cayman
+Email: lucasrodriguesgui@hotmail.com
